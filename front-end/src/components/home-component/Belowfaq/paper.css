@@ -1,0 +1,37 @@
+.ball{
+    margin-top: 40px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    background: linear-gradient(113.25deg, #BF9BB0 5.17%, rgba(191, 155, 176, 0.18) 100%);
+}
+@media screen and (max-width:600px) {
+    .ball{
+        margin-top: 40px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    background: linear-gradient(113.25deg, #BF9BB0 5.17%, rgba(191, 155, 176, 0.18) 100%);
+
+
+    }
+    
+}
+.yel{
+    
+    box-shadow: 0px 0px 10px 0px;
+    width: 240px;
+    height: 320px;
+    overflow: hidden;
+}
+@media screen and (max-width:600px) {
+    .yel{
+        
+    box-shadow: 0px 0px 10px 0px;
+    width: 240px;
+    height: 320px;
+    margin-top: 20px;
+    overflow: hidden;
+    margin-left: 100px;
+
+    }
+    
+}

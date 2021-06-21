@@ -1,0 +1,16 @@
+
+.main {
+  display:grid;
+  width: 100%;
+  padding-top: 10px;
+  justify-content: center;
+  
+  
+}
+.faq {
+  max-width: 1000px;
+  margin-bottom: 10px;
+}
+.morefaq{
+  color: blue;
+}

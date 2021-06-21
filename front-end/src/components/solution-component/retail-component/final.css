@@ -1,0 +1,37 @@
+
+.smile{
+    width: 10px;
+    height: 30px;
+    padding-right: 5px;
+}
+.contain{
+  margin-top: 35px;
+}
+.retail{
+  margin-left: 450px;
+  font-size: 28px;
+  margin-top: 15px;
+}
+
+@media screen and (max-width:600px) {
+  .retail{
+    
+  margin-left: 100px;
+  font-size: 28px;
+  margin-top: 15px;
+  }
+  
+}
+.retails{
+  margin-left: 10px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+@media screen and (max-width:600px) {
+  .retails{
+    
+  margin-left: 50px;
+  margin-top: 15px;
+  }
+  
+}

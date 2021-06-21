@@ -1,0 +1,12 @@
+
+.img{
+    height: 150px;
+    padding-left: 450px;
+    padding-top: 55px;
+    background-image: url(backgroungimag.png);
+    
+}
+.title{
+    font-size: 35px;
+    color: rgb(84, 84, 223);
+}
